@@ -7,9 +7,10 @@ Hi! Welcome to my GitHub profile!
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9kcnp5ajR3bXF6YTZqaHVldjIwYzkxNWlvbTdybjZ2eDA4ZnJxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/fOyRw6Tur6GHgruQ6W/giphy.webp" alt="Loading..." width="150" height="150">
 
 <div> 
-   <a href = "mailto: bbugarim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/bernardo-bugarim-nunes-vargas-238109164/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+   <a href="mailto:bbugarim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/bernardo-bugarim-nunes-vargas-238109164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
 
 - - - -
 
