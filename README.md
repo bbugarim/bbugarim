@@ -37,7 +37,7 @@ To my family, I promise this profile won’t be loading for much longer. I am de
 
 
 
-## ❓What I'm doing here? 
+## ❓What I'm doing here❓
 I am an aspiring programmer preparing for a bootcamp to kickstart my journey in tech.  
 - 🌱 I am currently learning programming through various online courses.
 - 🤩 Excited about endless possibilities and eager to grow as a developer.  
